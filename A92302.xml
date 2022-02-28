@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rebels turkish tyranny, in their march Decem. 24. 1641. As it was taken out of a letter sent from Mr. Witcome a merchant in Kingsale to a brother of his here. Shewing how cruelly they put them to the sword, ravished religious women, and put their children upon red hot spits before their parents eyes; throw them in the fire, and burn them to ashes, cut off their eares, and nose, put out their eyes; cut off their armes, and legges, broyle them at the fire, cut out their tongues, and thrust hot irons down their throats, drown them, dash out their brains, and such like other cruelty not heard of amongst Christians. With a great and bloody skirmish fought between Captain Hull, and the rebels: and the names of the chief rebels of that regiment. And the firing of a town within a mile of Dublin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92302</idno>
+            <idno type="STC">Wing R606</idno>
+            <idno type="STC">Thomason E181_25</idno>
+            <idno type="STC">ESTC R7417</idno>
+            <idno type="EEBO-CITATION">99873131</idno>
+            <idno type="PROQUEST">99873131</idno>
+            <idno type="VID">125587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125587)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rebels turkish tyranny, in their march Decem. 24. 1641. As it was taken out of a letter sent from Mr. Witcome a merchant in Kingsale to a brother of his here. Shewing how cruelly they put them to the sword, ravished religious women, and put their children upon red hot spits before their parents eyes; throw them in the fire, and burn them to ashes, cut off their eares, and nose, put out their eyes; cut off their armes, and legges, broyle them at the fire, cut out their tongues, and thrust hot irons down their throats, drown them, dash out their brains, and such like other cruelty not heard of amongst Christians. With a great and bloody skirmish fought between Captain Hull, and the rebels: and the names of the chief rebels of that regiment. And the firing of a town within a mile of Dublin.</title>
+                  <author>Whetcombe, Tristram.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Atrocities --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Atrocities --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:125587:1"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of an agricultural cycle. At the top is a cross-section of crops growing in the ground. Below are 8 numbered panels: 1. a man scattering seeds over a ploughed field; 2. a man cutting crops with a scythe; 3. a man flailing crops in two tied bushels; 4. a woman sifting or separating grain from sacks through a sieve; 5. a woman tending a fire over which sits a large pot; 6. a man seated, drinking from a mug, with a jug and several barrels nearby; 7. a man vomiting; 8. a woman sweeping with a broom</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:125587:1" rendition="simple:additions"/>
+            <head>THE REBELS TVRKISH TYRANNY, in their march <hi>Decem.</hi> 24. 1641.</head>
+            <p>As it was taken out of a Letter ſent from M<hi rend="sup">r.</hi> 
+               <hi>Witcome</hi> a Merchant in <hi>Kingſale</hi> to a Brother of his here. Shewing how cruelly they put them to the Sword, raviſhed religious women, and put their Children up<g ref="char:EOLhyphen"/>on red hot Spits before their parents eyes; throw them in the fire, and burn them to aſhes; cut off their eares, and noſe, put out their eyes; cut off their armes, and legges, broyle them at the fire, cut out their tongues, and thruſt hot Irons down their throats, drown them; daſh out their brains, and ſuch like other cruelty not heard of amongſt <hi>Chriſtians.</hi> With a great and bloody skirmiſh fought between Captain <hi>Hull,</hi> and the Rebels: and the names of the chief Rebels of that Regiment. And the firing of a Town within a mile of <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. R.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:125587:2"/>
+            <pb n="1" facs="tcp:125587:2"/>
+            <head>THE <hi>FRISH</hi> REBELS <hi>T<g ref="char:V">Ʋ</g>RKISH</hi> TYRANNY: <hi>Decemb</hi> 24. 1641.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Mongſt other ſad diaſters of the Riſing of the Rebels in <hi>Ireland,</hi> there was the 24. of December 1641. an Army of about 5000. Rebels, who were gather<g ref="char:EOLhyphen"/>ed together about Croke Haven in the Countie of Corke, which is in the South weſt part of Ireland.</p>
+            <p>There was a Religious and godly man, that li<g ref="char:EOLhyphen"/>ved there by name M. <hi>Dabnet;</hi> who perceiving that the Rebels were come near, ſent his ſervants to his neighbours and Tenants, perſwading as many as he could to ſtand with him at his houſe, upon their guard, if poſſible keep them out: So that he had gathered together about 500 that were able to bear Arms; but there was but little provi<g ref="char:EOLhyphen"/>ſion. So that they barred the gates to them as well as the fence of the houſe would permit them, and betook them within the houſe to ſuch proviſion as they had. But poore ſouls, it was all to little purpoſe, for when the Rebels approached, they fell upon the houſe, and ſoon entred, and ſlew all
+<pb n="2" facs="tcp:125587:3"/>the guard after a moſt butcherly and cruell manner as ſoon as ever they entred.</p>
+            <p>Then they took M. <hi>Dabnet</hi> his wife, a religions godly woman, and threw her down upon the floore, and raviſhed her before <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. And having to done, they took one of their chil<g ref="char:EOLhyphen"/>dren, with trickling teares running down its pretty face, ſtript off its clothes, and barbarouſly ſpit the harmleſſe babe upon a red hot ſpit, which they had heated in the fire, before its parents eyes, and yet were they not herewith ſatisfied; but upon the ſame ſpit they put another of the children alſo, to the great and unſpeakable grief of their parents. Theſe two babes, they laid down upon a pair of Racks that ſtood in the chimney, to roaſt before the fire, and by force made another of the children (bigger then either of the other) to turn the ſpit about, which was done with an heavy heart. And when he had turned a little, they took him away from the ſpit, and threw that boy into the fire, and held the poore childe down till he was dead, and let him lie till he was burnt to aſhes. Here was a heavie ſight for the parents.</p>
+            <p>Afterwards they took M. <hi>Dabnet</hi> himſelf, and before his wifes face, cut off both his eares, and his noſe, and put out both his eyes, and cut off both his arms, and his legs alſo; and having ſo done, they ſtripped him naked, and laid him along cloſe by the fire to ſcorch him, where he lay untill his fleſh did riſe up in bliſters with the heat of the fire: then they took him up and asked him (in deriſion and ſcorn) if he were not acold: Who languiſhing be<g ref="char:EOLhyphen"/>tween
+<pb n="3" facs="tcp:125587:3"/>life and death, as it were, all his blood being in a manner gone, and his vitall ſpirits, in much weakneſſe ſpake to them thus, That the worſt that they could do to him, he doubted not but that it was for his eternall good; and he did admoniſh them to take heede; for all theſe things will riſe up at the day of Judgement againſt them.</p>
+            <p>This ſpeech did but the more inrage them a<g ref="char:EOLhyphen"/>gainſt him, when they ſaw, that all theſe tor<g ref="char:EOLhyphen"/>tures would not make him yeeld, but that he was reſolved to die a Proteſtant; inſomuch, that they pulled open his mouth, and cut out his tongue, and run an hot Iron downe his throat, and ſo he died.</p>
+            <p>His Wife, poore ſoule, ſtanding by, beheld all this, with what ſorrow, let all loving wives, and tender hearted mothers judge; then they deman<g ref="char:EOLhyphen"/>ded of her if ſhee would turne to them, and follow with them; but what with feare, ſorrow and the diſtraction that ſhee was in, was not able to ſpeake, or make them any Anſwer; onely with weeping eyes in an abundant manner, fell upon her knees, like one halfe dead: But they pulled off her head<g ref="char:EOLhyphen"/>cloaths, and dragged her out of the houſe by the haire of the head into the yard, where there was a Well, into which they threw her, and drowned her; and after this ſet the houſe on fire.</p>
+            <p>From hence they matched to <hi>Buiton,</hi> to Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Hulls</hi> Caſtle; entending to take the Caſtle, but they could not enter the Caſtle; for it was well fortified, both with men, powder, ſhot, and other proviſion for Warre, good ſtore of Muskets; be<g ref="char:EOLhyphen"/>ſides
+<pb n="4" facs="tcp:125587:4"/>two braſſe Pieces of Ordnance mounted on the wall; and a great murderer planted againſt the coming in at the gate, which was faſt ſhut alſo ſo that in a ſhort ſpace there were a hundred of the Rebells ſlaine, and the reſt were forced to retreate backe.</p>
+            <p>So they went into the Towne, and with wild fire burned up the moſt part of it; which forced the Inhabitants to flie out of their houſes to ſave their lives, and they fled to the Caſtle thinking there to finde ſhelter; which was about the ſpace of a mile off from the Towne, But in the way the Rebells fell upon them, and ſlew the greateſt part of them.</p>
+            <p>From thence they marched to the <hi>Bantry,</hi> a place about ten miles from the ſaid Caſtle, where was Captaine <hi>Hull</hi> with five hundred men. The Re<g ref="char:EOLhyphen"/>bells fell upon him and his Army, and there was a bloudy Skirmiſh betweene them, but Captaine <hi>Hulls</hi> Army was but an handfull to them in com<g ref="char:EOLhyphen"/>pariſon.</p>
+            <p>In the Skirmiſh whileſt the Captaine fought, there was about two hundred of his men ſlaine, and about a hundred of the Rebells. And Cap<g ref="char:EOLhyphen"/>taine <hi>Hull</hi> himſelfe being ſlain band ſo many of his Army; the reſt were driven backe by the Re<g ref="char:EOLhyphen"/>bells towards the Sea and there ſome of them were battered to pieces upon the Rocks, and o<g ref="char:EOLhyphen"/>thers drowned in the Sea; to the great griefe of the Proteſtants thereabouts.</p>
+            <p>Then the Rebells returned into the Towne, and tooke it; and uſed the Proteſtants in it cruel<g ref="char:EOLhyphen"/>ly;
+<pb n="5" facs="tcp:125587:4"/>defloured the women before their husbands faces, dragged them up and downe the ſtreets by the haire of the head, and daſhing out their chil<g ref="char:EOLhyphen"/>drens braines againſt the walles, and againſt the ſtones in the ſtreets, and pulled them in pieces be<g ref="char:EOLhyphen"/>fore their parents faces; and putting Chriſtians to unheard of torments. Some they hanged by the haire of the head; ſome they hanged by the hands, and whipped them to death; and other ſuch like cruell torments.</p>
+            <p>Then they tooke thoſe Armes that were in the Armory for the County; which were about a thou<g ref="char:EOLhyphen"/>ſand Armes, which they carried away, and fired the Towne.</p>
+            <p>After ſuch cruell manner have the Rebells de<g ref="char:EOLhyphen"/>ſtroyed the Towne in the ſpace of one weeke, in the Weſt part of the County of Corke.</p>
+            <list>
+               <head>The Names of the chiefe Rebells of his Company.</head>
+               <item>
+                  <hi>Oſwelren Beere.</hi>
+               </item>
+               <item>
+                  <hi>Filminey Makecue.</hi>
+               </item>
+               <item>
+                  <hi>Onen Marmuffe.</hi>
+               </item>
+               <item>
+                  <hi>Darmon Ofanen.</hi>
+               </item>
+            </list>
+            <pb n="6" facs="tcp:125587:5"/>
+            <p>There is a little Towne within a mile of <hi>Dublin,</hi> which the Govemours there have cauſed to be burnt, for feare that a<g ref="char:EOLhyphen"/>ny of the Rebells ſhould come and har<g ref="char:EOLhyphen"/>bour there.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125587:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
